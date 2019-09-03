@@ -7,7 +7,9 @@
     "adal-node": "^0.1.28",
     "request": "^2.88.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^6.3.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
